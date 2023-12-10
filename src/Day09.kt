@@ -7,7 +7,7 @@ fun main() {
     fun part1(input: List<String>) = solver.solvePart1(input) // idk if it is a must to use these functions
     fun part2(input: List<String>) = solver.solvePart2(input)
 
-//    println(part1(input))
+    println(part1(input))
     println(part2(input))
 }
 
